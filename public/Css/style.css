@@ -1,0 +1,24 @@
+nav a {
+    padding: 10px
+}
+
+nav a {
+    text-decoration: none;
+}
+
+form {
+    padding: 10px;
+    margin-left: 30px;
+}
+
+#computer-name {
+    margin-bottom: 10px;
+}
+
+#computer-origin {
+    margin-bottom: 10px;
+}
+
+#computer-price {
+    margin-bottom: 10px;
+}
